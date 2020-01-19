@@ -1,0 +1,17 @@
+{
+    "name": "caihu/composer_test",
+    "description": "composer stydu test",
+    "authors": [
+        {
+            "name": "caihu",
+            "email": "1059150180@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Flower\\Rose\\": "src/Flower/Rose",
+            "Flower\\Lily\\": "src/Flower/Lily"
+        }
+    }
+}
