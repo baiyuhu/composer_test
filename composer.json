@@ -8,6 +8,7 @@
         }
     ],
     "require": {},
+    "license": "LGPL-2.1-or-later",
     "autoload": {
         "psr-4": {
             "Flower\\Rose\\": "src/Flower/Rose",
